@@ -10,9 +10,12 @@
 
 The tutorials in the two jupyter notebooks demonstrate how to submit a batch of orders to the [MODIS Global Subset Tool](https://modis.ornl.gov/cgi-bin/MODIS/global/subset.pl) for a list of coordinates in a text file using the MODIS Web Services API maintained by the ORNL DAAC. For a full description and usage examples of the web service, please visit the ORNL DAAC's MODIS microsite: https://modis.ornl.gov/data/modis_webservice.html
 
+## Tutorials
+* Python: [modis_global_api_access_python.ipynb](modis_global_api_access_python.ipynb)
+* R: Coming soon
+
 ## Prerequisites:
-* Python 2 or 3, Libraries: requests, pandas, json, datetime
-or 
+* Python 2 or 3, Libraries: requests, pandas, json, datetime **OR**
 * R (3.x recommended). R libraries: httr, readr, jsonlite
 * An input text file formatted as follows:
 ```
