@@ -1,0 +1,6 @@
+site_id,product,latitude,longitude,email,start_date,end_date,kmAboveBelow,kmLeftRight
+site1,MOD13Q1,35.0,-90.0,mcnelisjj@ornl.gov,2000-01-01,2005-12-31,8,8
+site2,MOD13Q1,40.0,-95.0,mcnelisjj@ornl.gov,2000-01-01,2005-12-31,8,8
+site3,MOD13Q1,45.0,-100.0,mcnelisjj@ornl.gov,2000-01-01,2005-12-31,8,8
+site4,MOD13Q1,50.0,-105.0,mcnelisjj@ornl.gov,2000-01-01,2005-12-31,8,8
+site5,MOD13Q1,55.0,-110.0,mcnelisjj@ornl.gov,2000-01-01,2005-12-31,8,8
