@@ -1,7 +1,7 @@
 # Submit a batch of MODIS Global Subset Tool orders via the MODIS Web Service
 
 *Author: ORNL DAAC*  
-*Date: May 15, 2018*  
+*Date: May 29, 2018*  
 *Contact for ORNL DAAC: uso@daac.ornl.gov*  
 
 ### Keywords: MODIS, web service, Python, R, REST
