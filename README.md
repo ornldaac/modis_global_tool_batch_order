@@ -29,4 +29,5 @@ site5,MOD13Q1,55.0,-110.0,mcnelisjj@ornl.gov,2000-01-01,2005-12-31,8,8
 You can of course format your input file however best suits your needs; e.g. the product, email, start_date, end_date, kmAboveBelow, and kmLeftRight are redundant in the notebooks examples and could be excluded.
 
 ![order_delivery_example](modis_order_delivery_email.png)
+
 Figure 1. Example order delivery email
